@@ -3,7 +3,7 @@ I'm Currently working on Que Systems
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/1Bae3c56ZT/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/rudranil___paul?utm_source=qr&igsh=aDV1dzFxcGo0bTR6)  [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://in.linkedin.com/in/rudranil-paul-ab9793202)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/1Bae3c56ZT/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/rudranil___paul?utm_source=qr&igsh=aDV1dzFxcGo0bTR6)  [![LinkedIn Badge](img.shields.io)](https://in.linkedin.com/in/rudranil-paul-ab9793202)
  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rudranilpaul11@gmail.com) 
 
 # 💻 Tech Stack:
